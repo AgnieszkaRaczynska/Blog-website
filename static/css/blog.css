@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+    padding: 20px;
+    font-size: 40px;
+    text-align: left;
+    background: #f1f1f1;
+}
+  
+body {
+  font-family: Arial;
+  padding-left: 20px;
+  padding-right: 150px;
+  background: #f1f1f1;
+}
+
+h2,
+h5 {
+    color: #27aa69;
+    font-family: 'Lobster';
+}
+
+.card {
+   background-color: white;
+   padding: 20px;
+   margin-top: 20px;
+}
+
+
+
