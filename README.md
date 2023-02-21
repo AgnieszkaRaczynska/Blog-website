@@ -1,6 +1,6 @@
 # Blog created in Python Django
 
-Project created in Django 4.1.3. Blog system for blog posts creation with some css elements.
+Project created in Django 4.1.3. Blog system for blog posts creation with some CSS elements.
 
 
 ## Features
